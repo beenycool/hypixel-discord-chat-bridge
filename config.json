@@ -78,10 +78,10 @@
       "serverID": "1253773164945604649"
     },
     "channels": {
-      "guildChatChannel": "1253773437303001179",
-      "officerChannel": "1253775981844500682",
-      "loggingChannel": "1253776111406419999",
-      "debugMode": true,
+      "guildChatChannel": "",
+      "officerChannel": "",
+      "loggingChannel": "",
+      "debugMode": false,
       "debugChannel": "1253774291946967170",
       "allowedBots": [
         "BOT_USER_ID"
